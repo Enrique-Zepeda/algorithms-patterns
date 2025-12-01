@@ -23,7 +23,7 @@ Aquí no solo guardo soluciones, sino la **idea clave**, el **patrón** y los **
   - Tabla en **Notion** para estadísticas y filtros
     - [Problemas de algoritmos – Notion](https://www.notion.so/Problemas-de-algoritmos-2bc87a0449ed80cca6dbfc773635fbd6?source=copy_link)
   - **Flashcards** para entrenar el “radar de patrones”
-    - [Deck Algorithms-Patterns – Gizmo](https://gizmo.ai/deck/57346807?p=OUHFqQ_8UfQ&t=1&featureId=2&deckName=Algorithms-Patterns&deckColour=fb7185&senderName=Enrique%20Zepeda&senderUserId=12428342)
+    - [Deck Algorithms-Patterns – Gizmo](https://gizmo.ai/deck/57367182?p=fngDLG-N5HU&t=1&featureId=2&deckName=Algorithms-Patterns&deckColour=fb7185&senderName=Enrique%20Zepeda&senderUserId=12428342)
 
 ---
 
